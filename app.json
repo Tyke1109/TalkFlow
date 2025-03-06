@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "TalkFlow",
+    "slug": "TalkFlow",
+    "version": "1.0.0",
+    "orientation": "auto",
+    "icon": "./assets/darklogo.png",
+    "newArchEnabled": true,
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
